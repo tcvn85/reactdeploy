@@ -1,22 +1,22 @@
 {
   "files": {
-    "main.css": "reactdeploy/static/css/main.b100e6da.chunk.css",
-    "main.js": "reactdeploy/static/js/main.bd6daab7.chunk.js",
-    "main.js.map": "reactdeploy/static/js/main.bd6daab7.chunk.js.map",
-    "runtime-main.js": "reactdeploy/static/js/runtime-main.4fdbc486.js",
-    "runtime-main.js.map": "reactdeploy/static/js/runtime-main.4fdbc486.js.map",
-    "static/js/2.ad088488.chunk.js": "reactdeploy/static/js/2.ad088488.chunk.js",
-    "static/js/2.ad088488.chunk.js.map": "reactdeploy/static/js/2.ad088488.chunk.js.map",
-    "index.html": "reactdeploy/index.html",
-    "precache-manifest.bb5cfa8b35456ed8738a3398cc991738.js": "reactdeploy/precache-manifest.bb5cfa8b35456ed8738a3398cc991738.js",
-    "service-worker.js": "reactdeploy/service-worker.js",
-    "static/css/main.b100e6da.chunk.css.map": "reactdeploy/static/css/main.b100e6da.chunk.css.map",
-    "static/media/logo.svg": "reactdeploy/static/media/logo.25bf045c.svg"
+    "main.css": "/static/css/main.b100e6da.chunk.css",
+    "main.js": "/static/js/main.ab3ae434.chunk.js",
+    "main.js.map": "/static/js/main.ab3ae434.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.701ae45a.js",
+    "runtime-main.js.map": "/static/js/runtime-main.701ae45a.js.map",
+    "static/js/2.ad088488.chunk.js": "/static/js/2.ad088488.chunk.js",
+    "static/js/2.ad088488.chunk.js.map": "/static/js/2.ad088488.chunk.js.map",
+    "index.html": "/index.html",
+    "precache-manifest.6632cbd92373163d0ea52c77a770391d.js": "/precache-manifest.6632cbd92373163d0ea52c77a770391d.js",
+    "service-worker.js": "/service-worker.js",
+    "static/css/main.b100e6da.chunk.css.map": "/static/css/main.b100e6da.chunk.css.map",
+    "static/media/logo.svg": "/static/media/logo.25bf045c.svg"
   },
   "entrypoints": [
-    "static/js/runtime-main.4fdbc486.js",
+    "static/js/runtime-main.701ae45a.js",
     "static/js/2.ad088488.chunk.js",
     "static/css/main.b100e6da.chunk.css",
-    "static/js/main.bd6daab7.chunk.js"
+    "static/js/main.ab3ae434.chunk.js"
   ]
 }
