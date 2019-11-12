@@ -1,12 +1,12 @@
 import React from 'react';
 import './App.css';
+import { Switch, Route } from 'react-router-dom';
+
 import Home from './components/Home';
 import Hello from './components/Hello';
-import { Switch, Route } from 'react-router-dom';
 
 function App() {
   return (
-    
 
     <div className="App">
       <Switch>
